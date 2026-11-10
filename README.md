@@ -1,41 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Mel%20Queiroz&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%26%20GenAI&descAlignY=58&descSize=18" alt="Mel Queiroz banner" />
+  <img src="assets/banner.svg" alt="Mel Queiroz — Engenheira de Software" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mel</h1>
-<h3 align="center">Software Engineer · Backend, Automation & GenAI · São Paulo, Brazil 🇧🇷</h3>
+<h1 align="center">Oi 👋, eu sou a Mel</h1>
+<h3 align="center">Engenheira de Software · Backend, Automação e IA Generativa · São Paulo 🇧🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=%3E+If+it+can+be+automated%2C+I'll+automate+it;%3E+TypeScript+%7C+Node.js+%7C+Python;%3E+RAG%2C+agents+%26+LLM+evals;%3E+Event-driven+backends+on+GCP+%26+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=%3E%20Se%20d%C3%A1%20pra%20automatizar%2C%20eu%20automatizo%3B%3E%20TypeScript%20%7C%20Node.js%20%7C%20Python%3B%3E%20RAG%2C%20agentes%20e%20avalia%C3%A7%C3%A3o%20de%20LLMs%3B%3E%20Backends%20orientados%20a%20eventos%20na%20GCP%20e%20AWS" alt="Texto animado" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-I started in tech the unofficial way: I was a finance operations assistant at a fintech, got tired of processing refunds by hand, and built a Python (PyAutoGUI) bot that automated the whole thing — alone, in one night. A few months later I was on the engineering team.
+Entrei na tecnologia pelo caminho não oficial: eu era assistente de operações financeiras numa fintech, cansei de fazer estornos na mão e construí um robô em Python (PyAutoGUI) que automatizou o processo inteiro — sozinha, em uma noite. Poucos meses depois, eu estava no time de engenharia.
 
-Since then I've been the person who turns repetitive work into systems:
+Desde então, sou a pessoa que transforma trabalho repetitivo em sistema:
 
-- ⚡ Automated **Pix Automático end to end** — 5k+ customers, ~3k charges/month, ~2h/day of manual work gone
-- 🤖 Built **25+ internal automations** used by every team, including on a legacy MSSQL core (procedures + scheduled jobs)
-- 🧠 Shipped **GenAI/RAG** features and a low-cost local LLM agent (Qwen)
-- 🔍 Main filter between AI-generated code and production — reviewing PRs from interns and juniors daily
+- ⚡ Automatizei o **Pix Automático de ponta a ponta** — 5 mil+ clientes, ~3 mil cobranças/mês, ~2h/dia de trabalho manual eliminadas
+- 🤖 Criei **25+ automações internas** usadas por todos os times, inclusive sobre um core legado em SQL Server (procedures + jobs agendados)
+- 🧠 Entreguei funcionalidades de **IA generativa/RAG** e um agente com LLM local de baixo custo (Qwen)
+- 🔍 Fui o principal filtro entre o código gerado por IA e a produção — revisando PRs de estagiários e juniores todos os dias
 
-Currently studying **Computer Engineering** at Universidade São Judas Tadeu and preparing for the **AWS Certified Developer – Associate**.
+Hoje curso **Engenharia da Computação** na Universidade São Judas Tadeu e estou me preparando para a certificação **AWS Certified Developer – Associate**.
 
-## 🤝 Connect
+## 🤝 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mel-queiroz-2618921b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/MelQLima"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-## 💻 Tech Stack
+## 💻 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,js,git,linux&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,githubactions,rabbitmq,redis,postgres&theme=dark" alt="Cloud & infra" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,js,git,linux&theme=dark" alt="Linguagens" /><br/>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,githubactions,rabbitmq,redis,postgres&theme=dark" alt="Cloud e infraestrutura" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" alt="BullMQ" />
@@ -45,46 +45,26 @@ Currently studying **Computer Engineering** at Universidade São Judas Tadeu and
   <img src="https://img.shields.io/badge/LLM%20Evals-1F6FEB?style=flat-square" alt="LLM Evals" />
 </p>
 
-## 🛠️ Featured Projects
+## 🛠️ Projetos em destaque
 
-| Project | What it does |
+| Projeto | O que faz |
 | --- | --- |
-| [**atende-ai-whatsapp**](https://github.com/MelQLima/atende-ai-whatsapp) | WhatsApp support agent with LangGraph, RAG and LGPD-aware data handling |
-| [**Revisor**](https://github.com/MelQLima/Revisor-public) | AI pull-request reviewer — the tool I wish I had while reviewing PRs all day |
-| [**llm-evals**](https://github.com/MelQLima/llm-evals) | Evaluation harness for LLM outputs, wired into CI |
-| [**finance-controller**](https://github.com/MelQLima/finance-controller) | Personal finance controller |
+| [**atende-ai-whatsapp**](https://github.com/MelQLima/atende-ai-whatsapp) | Agente de atendimento no WhatsApp com LangGraph, RAG e tratamento de dados alinhado à LGPD |
+| [**Revisor**](https://github.com/MelQLima/Revisor-public) | Revisor de pull requests com IA — a ferramenta que eu queria ter enquanto revisava PRs o dia todo |
+| [**llm-evals**](https://github.com/MelQLima/llm-evals) | Avaliação automatizada de respostas de LLMs, integrada ao CI |
+| [**finance-controller**](https://github.com/MelQLima/finance-controller) | Controle de finanças pessoais |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MelQLima&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelQLima&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MelQLima&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MelQLima&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
-</p>
-
-<!-- Contribution snake: re-enable once GitHub Actions is available on the account
-## 🐍 Commit Activity
+<!-- Animação de contribuições: reativar quando o GitHub Actions estiver liberado na conta
+## 🐍 Atividade de commits
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelQLima/MelQLima/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/MelQLima/MelQLima/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+    <img src="https://raw.githubusercontent.com/MelQLima/MelQLima/output/github-contribution-grid-snake.svg" alt="Cobrinha de contribuições" />
   </picture>
 </p>
 -->
 
-## 💬 Philosophy
+## 💬 Filosofia
 
-<p align="center"><i>"If you do it by hand twice, the third time it's a script."</i><br/>— Mel</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" alt="footer" />
-</p>
+<p align="center"><i>"Se você fez à mão duas vezes, na terceira vira script."</i><br/>— Mel</p>
