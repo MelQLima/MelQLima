@@ -6,7 +6,7 @@
 <h3 align="center">Engenheira de Software · Backend, Automação e IA Generativa · São Paulo 🇧🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=%3E%20Se%20d%C3%A1%20pra%20automatizar%2C%20eu%20automatizo%3B%3E%20TypeScript%20%7C%20Node.js%20%7C%20Python%3B%3E%20RAG%2C%20agentes%20e%20avalia%C3%A7%C3%A3o%20de%20LLMs%3B%3E%20Backends%20orientados%20a%20eventos%20na%20GCP%20e%20AWS" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=%3E+If+it+can+be+automated%2C+I'll+automate+it;%3E+TypeScript+%7C+Node.js+%7C+Python;%3E+RAG%2C+agents+%26+LLM+evals;%3E+Event-driven+backends+on+GCP+%26+AWS" alt="Texto animado" />
 </p>
 
 ---
