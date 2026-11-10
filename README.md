@@ -70,6 +70,7 @@ Currently studying **Computer Engineering** at Universidade São Judas Tadeu and
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MelQLima&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
+<!-- Contribution snake: re-enable once GitHub Actions is available on the account
 ## 🐍 Commit Activity
 
 <p align="center">
@@ -78,6 +79,7 @@ Currently studying **Computer Engineering** at Universidade São Judas Tadeu and
     <img src="https://raw.githubusercontent.com/MelQLima/MelQLima/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
   </picture>
 </p>
+-->
 
 ## 💬 Philosophy
 
